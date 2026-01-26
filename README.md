@@ -1,1 +1,1 @@
-# MOD-006568---Neural-computing-and-deep-learning
+[Week 1 lab logbook.docx](https://github.com/user-attachments/files/24869066/Week.1.lab.logbook.docx)
